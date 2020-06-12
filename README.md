@@ -1,4 +1,4 @@
-# Steam-game-platform-recommender-system-analysis
+# Steam-game-platform-recommender-system-analysis-Using-Pyspark
 ![1591946337278](https://user-images.githubusercontent.com/57570355/84475990-57424000-ac42-11ea-9a54-1b3053c7266d.jpg)
 
 For over 15 years, Steam has dominated the gaming industry. However, with other similar platforms emerging, it has been a very competitive market. In order for Steam to remain as the industry leader, we created a recommender system to help drive the sales and revenue by putting forward appropriate strategies to retain and reacquire churned customers.
